@@ -73,26 +73,3 @@ plt.legend(handles=[red_patch])
 
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
